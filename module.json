@@ -1,7 +1,7 @@
 {
   "title": "Pf2e Scribble",
   "description": "Make and edit stuff with text quick.",
-  "version": "2",
+  "version": "3",
   "authors": [
     {
       "name": "Kyle Pulver",
@@ -22,10 +22,10 @@
   "styles": [
     "css/style.css"
   ],
-  "url": "https://github.com/",
-  "download": "https://github.com/ ",
-  "manifest": "https://github.com/ ",
-  "bugs": "https://github.com/",
+  "url": "https://github.com/kylepulver/pf2e-scribble",
+  "download": "https://github.com/kylepulver/pf2e-scribble/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/kylepulver/pf2e-scribble/main/module.json",
+  "socket": true,
   "allowBugReporter": true,
   "id": "pf2e-scribble",
   "compatibility": {

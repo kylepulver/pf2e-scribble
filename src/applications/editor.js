@@ -8,7 +8,8 @@ export default class ScribbleEditor extends FormApplication {
     static get defaultOptions() {
         return foundry.utils.mergeObject(super.defaultOptions, {
             // classes: ["dnd5e"],
-            id: 'fsafdf',
+            title: "Scribble Editor",
+            id: 'scribble-editor',
             classes:["pf2e-scribble"],
             template: "modules/pf2e-scribble/templates/apps/editor.hbs",
             width: 800,
